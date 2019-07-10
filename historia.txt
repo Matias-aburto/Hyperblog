@@ -1,5 +1,7 @@
 esta es la historia de matias
 
-matias tiene 21 años y está aprendiendo a usar git
+matias tiene 21 anios y esta aprendiendo a usar git
+
+se ve un poco complejo, pero muy interesante.
 
 hasta ahora va bien.
