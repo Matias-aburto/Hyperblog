@@ -20,7 +20,9 @@ body{
 }
 
 .header h3{
-    font-size: 15px;
-    text-align: center;
-    
+    background: #33c;
+    color:white;
+    margin: 0;
+    padding: 0.5em;
+        
 }
